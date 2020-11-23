@@ -1,15 +1,15 @@
 <h3>NoteTaker Application<h3>
-<br>
+
 <p>-This NoteTaker Application application can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file.</p>
-<br>
+
 <p>-A user will be able to write and save notes. </p>
-<br>
+
 <p>-A user will be able to delete notes written before. </p>
-<br>
+
 <p>-A user will be able able organize their thoughts and keep track of tasks that need to be completed.</p>
-<br>
+
 <p>-For users that need to keep track of a lot of information, it's easy to forget or be unable to recall something important. Being able to take persistent notes allows users to have written information available when needed. </p>
-<br>
+
 <h4>Steps to use app </h4>
 <br>
 <p>1. on home page - click on get started button</p>
