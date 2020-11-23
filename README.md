@@ -28,5 +28,5 @@
 <br>
 
 <h4> Links to Notetaker App / Github Page </h4>
-<a href="https://mighty-headland-17179.herokuapp.com/">NoteTaker App</a>
-<a href="https://github.com/brc9087/NoteTaker"> Github Page</a>
+<p><a href="https://mighty-headland-17179.herokuapp.com/">NoteTaker App</a></p>
+<p><a href="https://github.com/brc9087/NoteTaker"> Github Page</a></p>
